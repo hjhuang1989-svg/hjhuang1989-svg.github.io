@@ -1,21 +1,21 @@
 ---
-title: "Your Name"
+title: "hjhuang"
 subtitle: "Research Homepage"
-description: "Personal research homepage for Your Name, including research interests, selected publications, projects, CV, and contact information."
+description: "Research homepage for hjhuang, focusing on intelligent wireless communications, RIS/STAR-RIS, ISAC, UAV/network optimization, and underwater acoustic channel modeling."
 ---
 
 ::: {.page-shell}
 
 ::: {.hero}
 ::: {.hero-copy}
-# Your Name / 中文姓名 {.hero-title}
+# hjhuang {.hero-title}
 
-**Current Position, Department, University or Institute**  
-**当前职位，院系，大学或研究机构**
+**Researcher in Intelligent Wireless Communications and AI-Driven Network Optimization**  
+**智能无线通信与 AI 驱动网络优化方向科研工作者**
 
-I am a researcher working on **research area one**, **research area two**, and **research area three**. My work focuses on building reliable methods and systems that connect theory, data, and real-world impact.
+My research focuses on intelligent wireless communications, reconfigurable intelligent surfaces, integrated sensing and communication, and AI-driven optimization for next-generation networks.
 
-我是一名科研工作者，研究方向包括**研究方向一**、**研究方向二**和**研究方向三**。我的工作关注将理论、数据与真实世界问题相结合，构建可靠的方法与系统。
+我的研究主要聚焦于智能无线通信、可重构智能表面、通感一体化以及面向下一代网络的智能优化方法。
 
 ::: {.link-row}
 [CV](assets/cv.pdf){.btn .primary}
@@ -28,44 +28,46 @@ I am a researcher working on **research area one**, **research area two**, and *
 
 ## About {#about}
 
-I am currently **your role** at **your institution**. My research interests include **topic A**, **topic B**, and **topic C**. I am especially interested in problems where rigorous modeling, computation, and domain knowledge can produce useful scientific or engineering outcomes.
+I am a researcher working on next-generation wireless networks, with interests spanning RIS/STAR-RIS-assisted communications, integrated sensing and communication, secure and energy-aware transmission, UAV-assisted networking, and underwater acoustic channel modeling.
 
-我目前在**你的机构**担任**你的职位**。我的研究兴趣包括**方向 A**、**方向 B**和**方向 C**。我尤其关注那些需要严谨建模、计算方法与领域知识共同解决的科学或工程问题。
+我是一名面向下一代无线网络的科研工作者，研究兴趣涵盖 RIS/STAR-RIS 辅助通信、通感一体化、安全与能量感知传输、无人机辅助组网以及水声信道建模。
 
 ## Research {#research}
 
-- **Research direction one.** One-sentence English description of the core question, method, or application.
-  **研究方向一。** 用一句中文说明核心问题、方法或应用场景。
-- **Research direction two.** One-sentence English description of the core question, method, or application.
-  **研究方向二。** 用一句中文说明核心问题、方法或应用场景。
-- **Research direction three.** One-sentence English description of the core question, method, or application.
-  **研究方向三。** 用一句中文说明核心问题、方法或应用场景。
+- **Intelligent wireless communications and RIS/STAR-RIS.** Beamforming, resource allocation, and system optimization for RIS/STAR-RIS-assisted wireless networks.  
+  **智能无线通信与 RIS/STAR-RIS。** 面向 RIS/STAR-RIS 辅助无线网络的波束成形、资源分配与系统优化。
+- **Integrated sensing, communication, security, and power transfer.** Joint design for ISAC, secure communication, and wireless power transfer in future 6G systems.  
+  **通感安全与能量传输一体化。** 面向未来 6G 系统的通感一体化、安全通信与无线能量传输联合设计。
+- **AI and optimization for UAV/networked systems.** Learning-based control, trajectory planning, and optimization for UAV-assisted and dynamic communication environments.  
+  **面向无人机与网络系统的 AI 优化。** 面向无人机辅助通信和动态网络环境的学习控制、轨迹规划与优化方法。
+- **Underwater acoustic channel modeling and learning-based planning.** Channel-aware modeling, simulation, and decision-making for underwater/acoustic communication environments, including learning-based planning under complex propagation conditions.  
+  **水声信道建模与学习型规划。** 面向水下/水声通信环境的信道感知建模、仿真与决策方法，关注复杂传播条件下的学习型规划与优化。
 
 ## Selected Publications {#publications}
 
-1. **Paper Title One.** Your Name, Coauthor Name. *Conference or Journal*, 2026.  
-   **论文题目一。** Your Name, Coauthor Name. *会议或期刊*, 2026.  
+1. **Paper Title One.** hjhuang, Coauthor Name. *Conference or Journal*, 2026.  
+   **论文题目一。** hjhuang, Coauthor Name. *会议或期刊*, 2026.  
    [DOI](https://doi.org/) · [arXiv](https://arxiv.org/) · [Code](https://github.com/hjhuang1989-svg)
 
-2. **Paper Title Two.** Your Name, Coauthor Name. *Conference or Journal*, 2025.  
-   **论文题目二。** Your Name, Coauthor Name. *会议或期刊*, 2025.  
+2. **Paper Title Two.** hjhuang, Coauthor Name. *Conference or Journal*, 2025.  
+   **论文题目二。** hjhuang, Coauthor Name. *会议或期刊*, 2025.  
    [DOI](https://doi.org/) · [arXiv](https://arxiv.org/) · [Code](https://github.com/hjhuang1989-svg)
 
-3. **Paper Title Three.** Your Name, Coauthor Name. *Conference or Journal*, 2024.  
-   **论文题目三。** Your Name, Coauthor Name. *会议或期刊*, 2024.  
+3. **Paper Title Three.** hjhuang, Coauthor Name. *Conference or Journal*, 2024.  
+   **论文题目三。** hjhuang, Coauthor Name. *会议或期刊*, 2024.  
    [DOI](https://doi.org/) · [arXiv](https://arxiv.org/) · [Code](https://github.com/hjhuang1989-svg)
 
 ## Projects {#projects}
 
-- **Project One / 项目一**  
-  Short English description of the project, its goal, and your contribution.  
-  简短中文说明项目目标、主要内容和你的贡献。  
-  [Repository](https://github.com/hjhuang1989-svg) · [Demo](https://hjhuang1989-svg.github.io)
+- **UAV-TD-MPC2**  
+  Learning-based planning and control for UAV-assisted dynamic communication environments.  
+  面向无人机辅助动态通信环境的学习型规划与控制。  
+  [Repository](https://github.com/hjhuang1989-svg/UAV-TD-MPC2)
 
-- **Project Two / 项目二**  
-  Short English description of the project, its goal, and your contribution.  
-  简短中文说明项目目标、主要内容和你的贡献。  
-  [Repository](https://github.com/hjhuang1989-svg)
+- **STAR-RIS-Assisted ISAC**  
+  System optimization for STAR-RIS-assisted integrated sensing and communication scenarios.  
+  面向 STAR-RIS 辅助通感一体化场景的系统优化。  
+  [Repository](https://github.com/hjhuang1989-svg/STAR-RIS-Assisted-ISAC)
 
 ## CV {#cv}
 
@@ -74,7 +76,7 @@ My latest CV is available here: [Download CV](assets/cv.pdf).
 
 ## Contact {#contact}
 
-- Email: [your.email@example.edu](mailto:your.email@example.edu)
+- Email: [hjhuang@hntou.edu.cn](mailto:hjhuang@hntou.edu.cn)
 - GitHub: [github.com/hjhuang1989-svg](https://github.com/hjhuang1989-svg)
 - ORCID: [0000-0000-0000-0000](https://orcid.org/)
 - Google Scholar: [Profile link](https://scholar.google.com/)
