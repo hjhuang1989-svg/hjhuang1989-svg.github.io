@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/cv.pdf
+
+website:
+  title: "Your Name | Research Homepage"
+  description: "Personal research homepage for Your Name."
+  site-url: "https://hjhuang1989-svg.github.io"
+  navbar:
+    title: "Your Name"
+    pinned: true
+    right:
+      - text: "About"
+        href: index.qmd#about
+      - text: "Research"
+        href: index.qmd#research
+      - text: "Publications"
+        href: index.qmd#publications
+      - text: "Projects"
+        href: index.qmd#projects
+      - text: "CV"
+        href: index.qmd#cv
+      - text: "Contact"
+        href: index.qmd#contact
+  page-footer:
+    left: "© 2026 Your Name"
+    right: "Built with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+    html-math-method: katex
+    lang: en
+
+execute:
+  freeze: auto
