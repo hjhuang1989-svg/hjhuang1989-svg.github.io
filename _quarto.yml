@@ -5,11 +5,11 @@ project:
     - assets/cv.pdf
 
 website:
-  title: "Your Name | Research Homepage"
-  description: "Personal research homepage for Your Name."
+  title: "hjhuang | Research Homepage"
+  description: "Research homepage for hjhuang."
   site-url: "https://hjhuang1989-svg.github.io"
   navbar:
-    title: "Your Name"
+    title: "hjhuang"
     pinned: true
     right:
       - text: "About"
@@ -25,7 +25,7 @@ website:
       - text: "Contact"
         href: index.qmd#contact
   page-footer:
-    left: "© 2026 Your Name"
+    left: "© 2026 hjhuang"
     right: "Built with Quarto and GitHub Pages"
 
 format:
