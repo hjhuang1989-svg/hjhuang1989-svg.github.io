@@ -1,0 +1,85 @@
+---
+title: "Your Name"
+subtitle: "Research Homepage"
+description: "Personal research homepage for Your Name, including research interests, selected publications, projects, CV, and contact information."
+---
+
+::: {.page-shell}
+
+::: {.hero}
+::: {.hero-copy}
+# Your Name / 中文姓名 {.hero-title}
+
+**Current Position, Department, University or Institute**  
+**当前职位，院系，大学或研究机构**
+
+I am a researcher working on **research area one**, **research area two**, and **research area three**. My work focuses on building reliable methods and systems that connect theory, data, and real-world impact.
+
+我是一名科研工作者，研究方向包括**研究方向一**、**研究方向二**和**研究方向三**。我的工作关注将理论、数据与真实世界问题相结合，构建可靠的方法与系统。
+
+::: {.link-row}
+[CV](assets/cv.pdf){.btn .primary}
+[Google Scholar](https://scholar.google.com/){.btn}
+[ORCID](https://orcid.org/){.btn}
+[GitHub](https://github.com/hjhuang1989-svg){.btn}
+:::
+:::
+:::
+
+## About {#about}
+
+I am currently **your role** at **your institution**. My research interests include **topic A**, **topic B**, and **topic C**. I am especially interested in problems where rigorous modeling, computation, and domain knowledge can produce useful scientific or engineering outcomes.
+
+我目前在**你的机构**担任**你的职位**。我的研究兴趣包括**方向 A**、**方向 B**和**方向 C**。我尤其关注那些需要严谨建模、计算方法与领域知识共同解决的科学或工程问题。
+
+## Research {#research}
+
+- **Research direction one.** One-sentence English description of the core question, method, or application.
+  **研究方向一。** 用一句中文说明核心问题、方法或应用场景。
+- **Research direction two.** One-sentence English description of the core question, method, or application.
+  **研究方向二。** 用一句中文说明核心问题、方法或应用场景。
+- **Research direction three.** One-sentence English description of the core question, method, or application.
+  **研究方向三。** 用一句中文说明核心问题、方法或应用场景。
+
+## Selected Publications {#publications}
+
+1. **Paper Title One.** Your Name, Coauthor Name. *Conference or Journal*, 2026.  
+   **论文题目一。** Your Name, Coauthor Name. *会议或期刊*, 2026.  
+   [DOI](https://doi.org/) · [arXiv](https://arxiv.org/) · [Code](https://github.com/hjhuang1989-svg)
+
+2. **Paper Title Two.** Your Name, Coauthor Name. *Conference or Journal*, 2025.  
+   **论文题目二。** Your Name, Coauthor Name. *会议或期刊*, 2025.  
+   [DOI](https://doi.org/) · [arXiv](https://arxiv.org/) · [Code](https://github.com/hjhuang1989-svg)
+
+3. **Paper Title Three.** Your Name, Coauthor Name. *Conference or Journal*, 2024.  
+   **论文题目三。** Your Name, Coauthor Name. *会议或期刊*, 2024.  
+   [DOI](https://doi.org/) · [arXiv](https://arxiv.org/) · [Code](https://github.com/hjhuang1989-svg)
+
+## Projects {#projects}
+
+- **Project One / 项目一**  
+  Short English description of the project, its goal, and your contribution.  
+  简短中文说明项目目标、主要内容和你的贡献。  
+  [Repository](https://github.com/hjhuang1989-svg) · [Demo](https://hjhuang1989-svg.github.io)
+
+- **Project Two / 项目二**  
+  Short English description of the project, its goal, and your contribution.  
+  简短中文说明项目目标、主要内容和你的贡献。  
+  [Repository](https://github.com/hjhuang1989-svg)
+
+## CV {#cv}
+
+My latest CV is available here: [Download CV](assets/cv.pdf).  
+我的最新简历可在此下载：[下载 CV](assets/cv.pdf)。
+
+## Contact {#contact}
+
+- Email: [your.email@example.edu](mailto:your.email@example.edu)
+- GitHub: [github.com/hjhuang1989-svg](https://github.com/hjhuang1989-svg)
+- ORCID: [0000-0000-0000-0000](https://orcid.org/)
+- Google Scholar: [Profile link](https://scholar.google.com/)
+
+Last updated: July 2026  
+最后更新：2026 年 7 月
+
+:::
